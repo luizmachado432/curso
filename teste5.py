@@ -12,7 +12,6 @@
 # def fazer_big_mac(nome):
 #     print(f"sanduiche big mac {nome}")  
 
-hfhgfhf
 # fazer_big_mac("luiz")
 # fazer_big_mac("gabriel")
 # fazer_big_mac("ana")

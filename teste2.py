@@ -5,7 +5,6 @@ print (type(num2))
 a= float (num1)
 print (a)
 print (type(a))
-
 b=int(num2)
 print(b)
 print(type (b))

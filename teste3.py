@@ -4,5 +4,3 @@ print(ele_gosta)
 print( ele_gosta . isupper  )
 #kkkkkkk bah crucru mais crucru
 
-
-gsgsgs

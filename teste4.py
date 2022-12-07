@@ -13,4 +13,3 @@
 
 for numero in range(1325,999999):
     print("carregando")
-gsgsgsg
